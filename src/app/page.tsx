@@ -6,11 +6,11 @@ export const metadata = {
   openGraph: {
     title: "Supakonnect Advanced Technology Ltd",
     description: "Your Number One Digital Partner",
-    url: "https://www.supakonnect.com",
+    url: "https://supakonnect.vercel.app",
     siteName: "Supakonnect Advanced Technology Ltd",
     images: [
       {
-        url: "https://www.supakonnect.com/og-image.png",
+        url: "https://supakonnect.vercel.app/og-image.png",
         width: 1024,
         height: 1024,
         alt: "Supakonnect Advanced Technology Ltd",
@@ -27,7 +27,7 @@ export const metadata = {
     creator: `Supakonnect`,
     creatorId: "4902idk",
     site: `Supakonnect Advanced Technology Ltd`,
-    images: ["https://www.supakonnect.com/og-image.png"],
+    images: ["https://supakonnect.vercel.app/og-image.png"],
   },
 };
 
